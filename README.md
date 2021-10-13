@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baha0007
 - 👀 I’m interested in game development & AR VR.
-- 🌱 I’m currently learning unity engine
+- 🌱 I’m currently learning unity engine & C#
 - 📫 How to reach me ? hedyaouibaha55@gmail.com
 
 <!---
